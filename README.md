@@ -1,4 +1,4 @@
-# packs
+# packs for dubugging 
 
 `packs` are a specification for an extensible packaging system to help modularize Ruby applications.
 
